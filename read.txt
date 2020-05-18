@@ -1,0 +1,5 @@
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+
+GlobalLandTemperaturesByCountry.csv
+使用的是这份数据，它有一直到 2013 年的每个国家的数据，年份较多。
